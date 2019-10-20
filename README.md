@@ -12,10 +12,8 @@
   
 ##### Example:
 ---------------------
-  > ./remove_bucket shitty
- >> ============================
+> ./remove_bucket shitty
  >> Delete that_shitty_bucket?
- >> =============================
  >> Are you sure? y
 ---------------------
 
