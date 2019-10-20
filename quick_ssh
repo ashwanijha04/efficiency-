@@ -1,0 +1,9 @@
+# Name the file like kali, ubuntu, amzlin and execute like ./kali
+# Takes you to the kali console immediately
+
+cd <path_to_key>.pem
+chmod 400 <key_name>.pem
+
+# Replace with user@ip. You get the idea. Duh.
+ssh -i "<key_name>.pem" ubuntu@ec2-XY-XY-XYZ-XYZ.compute-1.amazonaws.com
+ 
