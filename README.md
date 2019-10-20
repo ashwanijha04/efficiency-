@@ -12,11 +12,11 @@
   
 ##### Example:
 ---------------------
-> ./remove_bucket shitty
-  ====================
-  Delete that shitty bucket?
-  ====================
-  Are you sure?
+> ./remove_bucket shitty <br>
+  ==================== <br>
+  Delete that shitty bucket? <br>
+  ==================== <br>
+  Are you sure? <br>
 ---------------------
 
 Press y or n to confirm individual buckets.
