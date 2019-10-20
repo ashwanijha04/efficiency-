@@ -16,7 +16,7 @@
   ==================== <br>
   Delete that shitty bucket? <br>
   ==================== <br>
-  Are you sure? <br>
+  Are you sure? y/n <br>
 ---------------------
 
 Press y or n to confirm individual buckets.
