@@ -14,9 +14,9 @@
 ---------------------
   > ./remove_bucket shitty
  >> ==============================================
-Delete that_shitty_bucket?
- ================================================
-Are you sure? y
+ >> Delete that_shitty_bucket?
+ >> ================================================
+ >> Are you sure? y
 ---------------------
 
 Press y or n to confirm individual buckets.
